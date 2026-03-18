@@ -1,6 +1,6 @@
 # Bonificacion
 
-##Aim
+## Aim
 
 Basic application in Flutter that displays a student on a card.
 
